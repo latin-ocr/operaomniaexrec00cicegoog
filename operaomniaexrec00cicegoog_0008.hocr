@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaexrec00cicegoog/operaomniaexrec00cicegoog_0008.png"; bbox 0 0 2981 4926; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 680 63 1562 183">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 680 63 1562 183">
+     <span class='ocr_line' id='line_1_1' title="bbox 680 63 1562 183; baseline 0 4743"><span class='ocrx_word' id='word_1_1' title='bbox 680 63 1562 183; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1617 54 2531 247">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1617 54 2531 247">
+     <span class='ocr_line' id='line_1_2' title="bbox 1617 54 2531 247; baseline 0 -82"><span class='ocrx_word' id='word_1_2' title='bbox 1617 59 1806 165; x_wconf 62' lang='grc' dir='ltr'><strong>ΚΕ·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1887 62 2302 183; x_wconf 55' lang='lat' dir='ltr'>3244ss</span> <span class='ocrx_word' id='word_1_4' title='bbox 2330 54 2531 247; x_wconf 49' lang='grc' dir='ltr'><strong>Η,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 966 222 2019 731">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 966 222 2019 731">
+     <span class='ocr_line' id='line_1_3' title="bbox 966 222 2019 326; baseline 0 -11"><span class='ocrx_word' id='word_1_5' title='bbox 966 248 1302 315; x_wconf 50' lang='lat' dir='ltr'><strong>uox-ward</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1326 235 1635 321; x_wconf 63' lang='lat' dir='ltr'><strong>&#39;couno</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1657 222 2019 326; x_wconf 54' lang='lat' dir='ltr'><strong>&#39;Libra-y,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1285 396 1726 450; baseline 0.005 -3"><span class='ocrx_word' id='word_1_8' title='bbox 1285 396 1600 450; x_wconf 58' lang='lat' dir='ltr'><strong>Bonnam</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1642 400 1726 449; x_wconf 70' lang='lat' dir='ltr'><strong>of·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1016 528 1977 597; baseline 0.016 -14"><span class='ocrx_word' id='word_1_10' title='bbox 1016 530 1417 593; x_wconf 60' lang='lat' dir='ltr'><strong>FRANOIss</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1464 528 1977 597; x_wconf 46' lang='lat' dir='ltr'><strong>&amp;ARKMAN·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1241 664 1771 731; baseline 0.004 -6"><span class='ocrx_word' id='word_1_12' title='bbox 1241 668 1319 725; x_wconf 73' lang='grc'><strong>17</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1356 664 1530 731; x_wconf 57' lang='lat' dir='ltr'><strong>(mn.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1547 665 1771 727; x_wconf 51' lang='lat' dir='ltr'><strong>ffli-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
